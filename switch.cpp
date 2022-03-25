@@ -17,11 +17,11 @@ main()
 		switch(opcion)		
 		{
 			case 1: cout<<"Estoy en uno\n";
-					int n1,n2,r;
-					n1=10;
-					n2=20;
-					r=n1+n2;
-					cout<<"El resultado de la suma es: "<<r;
+				int n1,n2,r;
+				n1=10;
+				n2=20;
+				r=n1+n2;
+				cout<<"El resultado de la suma es: "<<r;
 			break;
 			case 2: getch(); cout<<"Estoy en dos\n";
 			break;
